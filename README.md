@@ -1,4 +1,6 @@
 # AI-Breaks-Cryptography
+
+---
 Author: Christeen T Jose 
 
 [LICENSE](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/LICENSE)
@@ -10,3 +12,5 @@ Source Code Used: Not Released
 
 ---
 ## Results and Updates: 
+
+---
