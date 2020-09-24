@@ -12,7 +12,7 @@ Source Codes Used: Not Released
 
 ---
 ## Results and Updates: 
-### Caesar Cipher:
+### Caesar Cipher/Shift Cipher:
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
 The input and output layers have 26 units each.
