@@ -16,7 +16,7 @@ Source Codes Used: Not Released
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
 The input and output layers have 26 units each.
-The 3 different shallow neural networks were considered,depending on the number of units in hidden layer:
+3 different shallow neural networks were considered,depending on the number of units in hidden layer:
   * Model 1: Hidden layer with 13 units
   * Model 2: Hidden layer with 26 units
   * Modle 3: Hidden layer with 39 units
