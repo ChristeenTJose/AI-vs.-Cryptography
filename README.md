@@ -20,7 +20,8 @@ The input and output layers have 26 units each.
   * Model 1: Hidden layer with **13 units**
     * Number of trainable parameters: 1,417
     * Number of Non-trainable parameters: 0
-   
+    * Training
+      * Number of epochs till convergence of validation loss: 757
   * Model 2: Hidden layer with **26 units**
   * Modle 3: Hidden layer with **39 units**
 
