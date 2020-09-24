@@ -12,6 +12,8 @@ Source Codes Used: Not Released
 
 ---
 ## Results and Updates: 
+
+---
 ### Caesar Cipher/ Shift Cipher:
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
@@ -65,6 +67,7 @@ The input and output layers have 26 units each.
       * Test Accuracy: 1.0
       * Test Loss: 2.831220413668234e-08
 
+---
 ### ROT13 Cipher:
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
@@ -118,6 +121,7 @@ The input and output layers have 26 units each.
       * Test Accuracy: 1.0
       * Test Loss: 2.831220413668234e-08
 
+---
 ### Substitution Cipher:
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
@@ -171,6 +175,7 @@ The input and output layers have 26 units each.
       * Test Accuracy: 1.0
       * Test Loss: 2.831220413668234e-08
 
+---
 ### Vigenere Cipher:
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
@@ -223,3 +228,5 @@ The input and output layers have 26 units each.
     * Testing:
       * Test Accuracy: 1.0
       * Test Loss: 2.831220413668234e-08
+
+---
