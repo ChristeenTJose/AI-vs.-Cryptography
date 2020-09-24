@@ -18,8 +18,7 @@ All models have 1 input layer, 1 hidden layer and 1 output layer
 The input and output layers have 26 units each.
 3 different shallow neural networks were considered,depending on the number of units in hidden layer:
   * Model 1: Hidden layer with 13 units
-
-Number of trainable parameters: 1,417
+    * Number of trainable parameters: 1,417
 
 Number of Non-trainable parameters: 0
    
