@@ -23,6 +23,11 @@ The input and output layers have 26 units each.
     * Training
       * Number of epochs till convergence of validation loss: 757
       
+      * loss: 6.6227e-08 
+      * accuracy: 1.0000 
+      * val_loss: 1.3039e-07 
+      * val_accuracy: 1.0000
+      
   * Model 2: Hidden layer with **26 units**
   
   * Modle 3: Hidden layer with **39 units**
