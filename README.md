@@ -122,7 +122,7 @@ The input and output layers have 26 units each.
       * Test Loss: 2.831220413668234e-08
 
 ---
-### Substitution Cipher:
+### Simple Substitution Cipher:
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
 The input and output layers have 26 units each.
@@ -176,7 +176,7 @@ The input and output layers have 26 units each.
       * Test Loss: 2.831220413668234e-08
 
 ---
-### Vigenere Cipher:
+### RSA:
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
 The input and output layers have 26 units each.
