@@ -138,7 +138,7 @@ The input and output layers have 26 units each.
       * Validation accuracy: 1.0000
       * Learning Curves:
         * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/A3.1%20-%20SS%20-%2013%20units.png)
-        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/A3.1%20-%20SS%20-%2013%20units.png)
+        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/L3.1%20-%20SS%20-%2013%20units.png)
     * Testing:
       * Test Accuracy: 1.0
       * Test Loss: 1.415610029198433e-07
