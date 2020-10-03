@@ -77,17 +77,17 @@ The input and output layers have 26 units each.
     * Number of trainable parameters: 1,417
     * Number of Non-trainable parameters: 0
     * Training:
-      * Number of epochs till convergence of validation loss: 757
-      * Loss: 6.6227e-08 
+      * Number of epochs till convergence of validation loss: 620
+      * Loss: 6.2088e-08 
       * Accuracy: 1.0000 
-      * Validation loss: 1.3039e-07 
+      * Validation loss: 5.9605e-08 
       * Validation accuracy: 1.0000
       * Learning Curves:
-        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/A1.1%20-%20Caesar%20Cipher%20-%2013%20units.png)
-        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/L1.1%20-%20Caesar%20Cipher%20-%2013%20units.png)
+        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/A2.1%20-%20ROT13%20-%2013%20units.png)
+        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/L2.1%20-%20ROT13%20-%2013%20units.png)
     * Testing:
       * Test Accuracy: 1.0
-      * Test Loss: 2.8312175004430173e-07
+      * Test Loss: 5.811452297166397e-08
     
   * Model 2: Hidden layer with **26 units**
     * Number of trainable parameters: 2,106
