@@ -159,7 +159,7 @@ The input and output layers have 26 units each.
       * Test Accuracy: 1.0
       * Test Loss: 5.5134290022351706e-08
   
-  * Modle 3: Hidden layer with **39 units**
+  * Model 3: Hidden layer with **39 units**
     * Number of trainable parameters: 2,795
     * Number of Non-trainable parameters: 0
     * Training:
@@ -213,7 +213,7 @@ The input and output layers have 26 units each.
       * Test Accuracy: 1.0
       * Test Loss: 1.0281799944777958e-07
   
-  * Modle 3: Hidden layer with **39 units**
+  * Model 3: Hidden layer with **39 units**
     * Number of trainable parameters: 2,795
     * Number of Non-trainable parameters: 0
     * Training:
