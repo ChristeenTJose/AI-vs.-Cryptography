@@ -1,7 +1,7 @@
-# AI-Breaks-Cryptography
+# AI-vs.-Cryptography
 
 ---
-## "AI Breaks Cryptography" is a research oriented project where i try to break various Cryptography algorithms using Deep Learning and Known-Plaintext Attack
+## "AI vs. Cryptography" is a fun research oriented project combining Cryptography, Deep Learning and Known-Plaintext Attack
 
 ---
 Author: Christeen T Jose 
