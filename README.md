@@ -176,7 +176,7 @@ The input and output layers have 26 units each.
       * Test Loss: 7.599591356211022e-08
 
 ---
-### RSA:
+### Caesar Cipher (Protected Version):
 #### Model used: Shallow Neural Network
 All models have 1 input layer, 1 hidden layer and 1 output layer
 The input and output layers have 26 units each.
@@ -185,17 +185,17 @@ The input and output layers have 26 units each.
     * Number of trainable parameters: 1,417
     * Number of Non-trainable parameters: 0
     * Training:
-      * Number of epochs till convergence of validation loss: 757
-      * Loss: 6.6227e-08 
-      * Accuracy: 1.0000 
-      * Validation loss: 1.3039e-07 
-      * Validation accuracy: 1.0000
+      * Number of epochs till convergence of validation loss: 11
+      * Loss: 3.2463 
+      * Accuracy: 0.0417
+      * Validation loss: 3.2337
+      * Validation accuracy: 0.0625
       * Learning Curves:
-        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/A1.1%20-%20Caesar%20Cipher%20-%2013%20units.png)
-        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/L1.1%20-%20Caesar%20Cipher%20-%2013%20units.png)
+        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/A4.1%20-%20Variable%20Key%20CC%20-%2013%20units.png)
+        * ![](https://github.com/ChristeenTJose/AI-Breaks-Cryptography/blob/master/Learning%20Curves/L4.1%20-%20Variable%20Key%20CC%20-%2013%20units.png)
     * Testing:
-      * Test Accuracy: 1.0
-      * Test Loss: 2.8312175004430173e-07
+      * Test Accuracy: 0.03750000149011612
+      * Test Loss: 3.242751359939575
     
   * Model 2: Hidden layer with **26 units**
     * Number of trainable parameters: 2,106
